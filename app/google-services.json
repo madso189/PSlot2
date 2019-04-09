@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "396152205125",
+    "firebase_url": "https://pslot-ae6be.firebaseio.com",
+    "project_id": "pslot-ae6be",
+    "storage_bucket": "pslot-ae6be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396152205125:android:2e156ed7d4fa95df",
+        "android_client_info": {
+          "package_name": "com.jk.pslot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "396152205125-83hrn4cmqf65aon0n6ln6huv83evbifl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jk.pslot",
+            "certificate_hash": "3f157b8b9be1d392abcb3e97e34d741143049932"
+          }
+        },
+        {
+          "client_id": "396152205125-aaoik1q6jc3fligqecac2dhr6e0hvu8v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGdGPdEWLZaGiZiUtZyGR8QoK-7hbiX70"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "396152205125-aaoik1q6jc3fligqecac2dhr6e0hvu8v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
